@@ -1,0 +1,6 @@
+6/18 Thursday
+1. script tags in angular
+
+2. comment in angular
+
+3. warning in main.js
