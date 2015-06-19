@@ -1,0 +1,31 @@
+================================================
+This note only records what I do in the work but
+not the detail such as what I did for note taking
+================================================
+
+6/15 Monday
+-first day of work
+-meeting with Thomas, Gary to talk about the overall program
+-set up Yeoman, went through the tutorial
+-spent a lot of time fixing the setup, npm install, path, yo install, etc :(
+-(not sure if my laptop still has the potential problems or not)
+
+6/16 Tuesday
+-continued working on the project
+-before leaving, accidentally replaced and deleted the project I did…
+-spent an hour to redo
+
+
+6/17 Wednesday
+-morning: finished the project
+-Alex showed me the aggieFeed project and clone to my laptop
+-afternoon: start learning git
+
+6/18 Thursday
+-morning: learn git from Udacity, starting form lesson 1  
+-met with Thomas for code review
+-afternoon: finished lesson1 and quiz (Udacity)
+-learned many git command, see “github note”
+??what is left: lesson up to commit changes
+
+6/19 Friday
