@@ -1,0 +1,9 @@
+6/18 Thursday
+4. what is bash?
+
+5. difference between .bash_profile and .bashrc
+
+6. difference between export and alias
+
+
+6/19 Friday
