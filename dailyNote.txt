@@ -29,3 +29,7 @@ not the detail such as what I did for note taking
 ??what is left: lesson up to commit changes
 
 6/19 Friday
+-morning: learn git from Udcity, up to merging
+-noon: Angular io up to Data Binding
+!meeting: future project, gain accessed to bitbucket
+	: need to learn Mongo, node, protractor, mocha, etc
