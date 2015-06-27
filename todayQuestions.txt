@@ -12,3 +12,13 @@
 1. In server.js, unknownMethodHandler?
 
 2. and the use
+
+6/25
+1. in config-service config[environment].API_HOST
+
+2. @@environment
+
+6/26
+1. get put calling
+
+2. configService.API_HOST?
