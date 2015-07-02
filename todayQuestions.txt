@@ -25,6 +25,7 @@
 
 6/30
 1. how ticket expires?
+use that current time and + 12 > current time
 
 2. Session, token
 
@@ -34,3 +35,10 @@
 2. mobileToken/authToken
 
 3. how ApiKey is not allowed, and why?
+
+7/2 pull requst
+1. explanation as comments before function
+2. error message is sent to server, for example send(400, “message”)
+3. next is provided by testify
+
+1. defensive programming?
