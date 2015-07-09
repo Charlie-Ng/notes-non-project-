@@ -1,6 +1,5 @@
 ================================================
-This note only records what I do in the work but
-not the detail such as what I did for note taking
+This note only records what I do in the work 
 ================================================
 
 6/15 Monday
@@ -33,3 +32,13 @@ not the detail such as what I did for note taking
 -noon: Angular io up to Data Binding
 !meeting: future project, gain accessed to bitbucket
 	: need to learn Mongo, node, protractor, mocha, etc
+
+6/22 - 7/7
+- worked on edustream and edustream-www
+- edustream has been merged
+
+7/8
+- finished e2e test for user update
+tmr: fix edustream user.write to get permissions
+     code review before pull request
+     understand browser sync 	
