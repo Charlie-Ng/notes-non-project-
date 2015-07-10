@@ -39,6 +39,14 @@ This note only records what I do in the work
 
 7/8
 - finished e2e test for user update
-tmr: fix edustream user.write to get permissions
+tmr: fix edustream user.write to get permissions (done)
+     code review before pull request (not done) 
+     understand browser sync (not done)
+
+7/9
+- edited e2e test, removed as many browser.sleep as possible
+tmr: finished the e2e, invesigate why permission list didn't work at the beginning
+     move on and check new code on server
+     understand browser sync 
      code review before pull request
-     understand browser sync 	
+      	
