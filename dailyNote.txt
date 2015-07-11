@@ -47,6 +47,11 @@ tmr: fix edustream user.write to get permissions (done)
 - edited e2e test, removed as many browser.sleep as possible
 tmr: finished the e2e, invesigate why permission list didn't work at the beginning
      move on and check new code on server
-     understand browser sync 
-     code review before pull request
+     understand browser sync (not done) 
+     code review before pull request (not done)
+
+7/10
+- merged the developer branch
+- improved the e2e test
+monday: remove all sleep and try to use wait
       	
