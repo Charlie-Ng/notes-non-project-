@@ -54,4 +54,8 @@ tmr: finished the e2e, invesigate why permission list didn't work at the beginni
 - merged the developer branch
 - improved the e2e test
 monday: remove all sleep and try to use wait
+
+7/13
+- merged to the developer branch and removed the old one
+tar: try optimize code
       	
