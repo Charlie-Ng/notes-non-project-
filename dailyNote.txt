@@ -57,5 +57,10 @@ monday: remove all sleep and try to use wait
 
 7/13
 - merged to the developer branch and removed the old one
-tar: try optimize code
+tmr: try optimize code
+
+7/14
+- optimized e2e test by using EC
+- added scroll bar to sources and posts
+tmr: add hover event to scroll bar and test if there are less posts
       	
