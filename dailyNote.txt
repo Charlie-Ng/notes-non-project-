@@ -64,3 +64,12 @@ tmr: try optimize code
 - added scroll bar to sources and posts
 tmr: add hover event to scroll bar and test if there are less posts
       	
+7/15
+- added hover event
+- improved e2e test and removed the global function, waitUntilPresent
+tmr: remove number of classes
+
+7/16
+- remove number of classes in user.html
+tmr: follow up test and start looking at other pages
+
