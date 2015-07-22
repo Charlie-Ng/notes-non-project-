@@ -73,3 +73,12 @@ tmr: remove number of classes
 - remove number of classes in user.html
 tmr: follow up test and start looking at other pages
 
+7/20
+off
+
+7/21
+- added disabled tab
+- clean up classes in the manage user html
+tmr: scroll bar issue
+
+
