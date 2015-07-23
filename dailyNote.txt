@@ -81,4 +81,9 @@ off
 - clean up classes in the manage user html
 tmr: scroll bar issue
 
-
+7/22
+- removed md-content
+- reorganized manage user html
+- add more padding and margin
+- temporarily fixed scroll bar issue
+tmr: maybe ask question in github, ask Thomas about the padding
